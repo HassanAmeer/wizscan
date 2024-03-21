@@ -1,7 +1,7 @@
 # wizscan
 
 A new Flutter project.
-
+<img src="1.pngstyle=""width:50%;"> 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
